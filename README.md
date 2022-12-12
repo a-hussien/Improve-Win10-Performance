@@ -3,7 +3,7 @@ Simple steps to improve windows 10 performance
 
 ## Stpes:
 - Edit power plan to high performance
-- Background apps
+- Disable unwanted *Background apps
 - Adjust the appearance and performance of windows
 - Decrease startup apps
 - Disk CleanUp
@@ -12,7 +12,7 @@ Simple steps to improve windows 10 performance
 - run -> prefetch -> clear all
 - run -> tree
 
-**show wifi password:
+## *show wifi password:
 
 ```bash
   netsh wlan show profile name=Vodafone_VDSL key=clear
